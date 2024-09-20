@@ -2,8 +2,9 @@
 
 This project is a Python-based decryption tool designed to decrypt files that were encrypted by a ransomware attack. The tool analyzes the ransomware, recovers the key, and decrypts the affected files. It uses the Advanced Encryption Standard (AES) in CBC mode to decrypt the files and stores the decrypted files in a separate directory.
 
-## Download Hank's Backup: https://drive.google.com/file/d/1XR3xHpdBfR8HGXItexhzny9AzzGMWc8i/view?usp=sharing
-
+## Download Hank's Encrypted Backup: https://drive.google.com/file/d/1XR3xHpdBfR8HGXItexhzny9AzzGMWc8i/view?usp=sharing
+- download and put it in the repository directory and run
+  
 ## Features
 - Decrypts files encrypted with AES in CBC mode.
 - Displays a progress bar during the decryption process.
