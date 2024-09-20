@@ -26,8 +26,8 @@ Before running the decryption tool, ensure that the following software is instal
 ### Step-by-Step Setup
 1. **Clone the Repository**: Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/ransomware-decryption-tool.git
-   cd
+   git clone https://github.com/DevDevangshu404/Ransomeware-Decryption-Tool.git
+   cd /DevDevangshu404/Ransomeware-Decryption-Tool
 
 ### Create and Activate a Virtual Environment:
 1. **Create a virtual environment to isolate the dependencies
