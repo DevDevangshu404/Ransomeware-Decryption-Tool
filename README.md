@@ -8,16 +8,6 @@ This project is a Python-based decryption tool designed to decrypt files that we
 - Stores decrypted files in a `DecryptedFiles` folder.
 - Provides an ASCII art header for a user-friendly terminal interface.
 
-## ASCII Art Header Example
------------------------------------------------------------------------------------------
------------------------------------------------------------------------------------------
-.-.  .  . ..-..-..  ..  .  .  .-..--      .-..--.-.-.. ..-.----.-.-.. .      ---.-..-..
-|-' /_\ |\|`-.| ||\/||/\| /_\ |-'|-       | :|-(  |-' Y |-' |  | | ||\|       | | || ||
-'`-'   '' '`-'`-''  ''  ''   ''`-'--      '-''--`-'`- ' '   ' -'-`-'' '       ' `-'`-''-'
------------------------------------------------------------------------------------------
------------------------------------------------------------------------------------------
-
-
 ## Tools Used
 - **Python 3**: The core programming language used to implement the decryption tool.
 - **PyCryptodome**: A Python library for cryptographic operations, used to handle AES decryption.
